@@ -5,6 +5,8 @@ parent: Knowledge
 nav_order: 10
 ---
 
+# Bug
+
 In software development, a bug refers to a flaw, error, or defect in a computer program or system that causes it to behave unexpectedly or produce incorrect results. Bugs can manifest in various forms, such as crashes, unexpected behavior, incorrect calculations, security vulnerabilities, or user interface glitches.
 
 Bugs can arise from various sources, including coding errors, logic flaws, configuration issues, hardware failures, or interactions with other software components. They can occur at any stage of the software development lifecycle, from initial coding to deployment and beyond.
