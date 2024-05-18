@@ -6,7 +6,7 @@ grand_parent: Frameworks
 nav_order: 2
 ---
 
-# Required Dependencies
+## Required Dependencies
 
 - Java 21
 - Maven 3
@@ -19,7 +19,7 @@ nav_order: 2
     - Java Extension Pack
     - Open In Default Browser
 
-# Install the dependencies on Windows
+## Install the dependencies on Windows
 
 **Java:**
 

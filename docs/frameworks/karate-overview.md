@@ -6,7 +6,7 @@ grand_parent: Frameworks
 nav_order: 1
 ---
 
-# Overview
+## Overview
 
 Karate Framework is an open-source platform offering a **unified approach** to **test automation**. It caters to various testing needs, including:
 
@@ -25,7 +25,7 @@ Karate Framework is an open-source platform offering a **unified approach** to *
 
 **Overall, Karate Framework offers a powerful and user-friendly solution for automating various testing aspects, particularly focusing on API testing and performance evaluation.**
 
-# Pros and Cons
+## Pros and Cons
 
 **Pros:**
 
