@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Karate Pros and Cons
+title: Pros and Cons
 parent: Karate
 grand_parent: Frameworks
-nav_order: 1
+nav_order: 2
 ---
 
 **Karate Pros:**
