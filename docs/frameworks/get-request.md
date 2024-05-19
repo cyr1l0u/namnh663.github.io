@@ -1,8 +1,8 @@
 ---
 layout: default
 title: GET Request
-parent: Karate
-grand_parent: Frameworks
+parent: Scripting
+grand_parent: Karate
 nav_order: 1
 ---
 

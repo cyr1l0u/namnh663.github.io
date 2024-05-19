@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scripting
-parent: Frameworks
+parent: Karate
 has_children: true
 nav_order: 3
 ---
