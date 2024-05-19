@@ -2,7 +2,12 @@
 layout: default
 title: Scripting
 parent: Karate
-has_children: true
+grand_parent: Frameworks
 nav_order: 3
 ---
 
+# Scripting
+
+## GET Request - URL and Path
+
+![](/assets/images/url-path.png)
