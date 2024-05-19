@@ -1,9 +1,9 @@
 ---
 layout: default
-title: GET Request - URL and Path
+title: GET Request
 parent: Karate
 grand_parent: Frameworks
-nav_order: 3
+nav_order: 1
 ---
 
 # GET Request - URL and Path
