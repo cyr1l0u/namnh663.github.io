@@ -72,7 +72,7 @@ Ho Chi Minh, Vietnam
 
 | Familiar With Database Tools |
 |:--------------------------------------------------------------------------------------|
-| <img src="/assets/images/dbgate.png" width="52" height="52"> <img src="/assets/images/sql-developer.png" width="45" height="50"> <img src="/assets/images/dbvisualizer.svg" width="45" height="52"> |
+| <img src="/assets/images/dbgate.png" width="52" height="52"> <img src="/assets/images/sql-developer.png" width="45" height="50"> <img src="/assets/images/dbvisualizer.svg" width="52" height="45"> |
 
 ## Projects
 
