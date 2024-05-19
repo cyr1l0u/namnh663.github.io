@@ -45,6 +45,7 @@ Ho Chi Minh, Vietnam
 - Scrum insight - an agile project management framework
 - Proficient use of Jira Board, Jira Timeline, Jira Reports, Jira Backlog, Jira Automation, Jira Filters, Jira Dashboards
 - Proficient use of Azure DevOps, Azure Pipelines, Azure Boards, Azure Repos, Azure Test Plans, Azure Load Testing, Azure Monitor - Application Insights
+- Proficient use of Xray, Qase (Test Management Tools)
 - Experienced in writing test documents
 - Requirement / User story analysis
 - Proficient in writing and executing test cases
@@ -61,8 +62,8 @@ Ho Chi Minh, Vietnam
 - Non-Functional Testing
   - Performance Testing
   - Usability Testing: Exploratory, Browser
-- Performing demo sessions
 - Experienced in implementing test automation framework from scratch
+- Experienced in leading small teams (6 people)
 
 ![](/assets/images/exp.png)
 
