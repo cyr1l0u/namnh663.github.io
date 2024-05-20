@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Karate Overview
+title: Overview
 parent: Karate
 grand_parent: Frameworks
 nav_order: 1

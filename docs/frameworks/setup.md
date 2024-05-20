@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Env Setup
+title: Setup
 parent: Karate
 grand_parent: Frameworks
 nav_order: 2
