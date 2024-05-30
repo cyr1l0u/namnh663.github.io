@@ -58,3 +58,7 @@ nav_order: 3
 
 - Use a random data generator to automatically create unique titles and descriptions for articles in tests.
 - Refactor the code to create a separate function for obtaining the authorization token for reusability.
+
+## DELETE Request
+
+![](/assets/images/delete-request.png)
