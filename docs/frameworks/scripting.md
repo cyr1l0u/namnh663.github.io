@@ -6,7 +6,16 @@ grand_parent: Frameworks
 nav_order: 3
 ---
 
-# Scripting
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## GET Request - URL and Path
 

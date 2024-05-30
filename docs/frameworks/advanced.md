@@ -6,7 +6,16 @@ grand_parent: Frameworks
 nav_order: 4
 ---
 
-# Advanced
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Data Driven
 
