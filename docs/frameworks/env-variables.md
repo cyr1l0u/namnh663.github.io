@@ -3,7 +3,7 @@ layout: default
 title: Environment Variables
 parent: Karate
 grand_parent: Frameworks
-nav_order: 5
+nav_order: 3
 ---
 
 # Environment Variables
