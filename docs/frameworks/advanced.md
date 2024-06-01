@@ -28,6 +28,34 @@ Key takeaways:
 - You can reference these columns within your test steps using angle braces.
 - This approach improves code maintainability and reduces redundancy.
 
+## Fuzzy Matching
+
+**What is fuzzy matching?**
+
+Fuzzy matching allows you to verify the structure and data types of your API responses without requiring exact matches for the values themselves. This is useful for ensuring the contract between your application and the API is adhered to.
+
+**Common Use Cases:**
+
+- Validating basic data types like boolean, number, string, etc.
+- Verifying the presence or absence of optional keys in the response.
+- Ensuring arrays contain elements of a specific type (e.g., all strings).
+
+**Example: Validating Response Structure**
+
+The lesson uses an example of validating an article response that includes an "articles" key with an array of values and a "favorites_count" key with a numerical value. Fuzzy matching allows you to assert that "articles" is an array and "favorites_count" is a number without checking the specific contents of the array or the exact value of the count.
+
+![](/assets/images/karate/fuzzy-1.png)
+
+**Specifying Acceptable Data Types:**
+
+![](/assets/images/karate/fuzzy-2.png)
+
+**Key Points:**
+
+- Fuzzy matching simplifies response validation by focusing on structure and data types.
+- It ensures the contract between your application and the API is maintained.
+- It's easy to use and provides greater flexibility in assertion.
+
 ## Debugging
 
 **Common Mistakes:**
