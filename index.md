@@ -6,8 +6,7 @@ description: "Portforlio"
 permalink: /
 ---
 
-[lambdatest_certificate]: https://www.linkedin.com/learning/certificates/c5567f388c13e6a0ce96700e940d93694522b911a01416ac4c04b5d621fbc4b9
-
+[karate_code_2]: https://github.com/namnh663/live-karate
 [playwright_code]: https://github.com/namnh663/parabank-playwright
 [k6_code]: https://github.com/namnh663/k6
 [webdriverio_code]: https://github.com/namnh663/swaglabs-webdriverio
@@ -15,7 +14,7 @@ permalink: /
 [nightwatch_mobile_code]: https://github.com/namnh663/mobile-nightwatch
 [nightwatch_web_code]: https://github.com/namnh663/swaglabs-nightwatch
 [testcafe_code]: https://github.com/namnh663/vela-testcafe
-[karate_code]: https://github.com/namnh663/ama-karate
+[karate_code_1]: https://github.com/namnh663/ama-karate
 
 [playwright_post]: https://www.linkedin.com/posts/namnh663_automationtesting-playwright-qualityassurance-activity-7117946170752077824-c_f1?utm_source=share&utm_medium=member_desktop
 [k6_post]: https://www.linkedin.com/posts/namnh663_k6-loadtesting-performancetesting-activity-7115444435479384064-c2_3?utm_source=share&utm_medium=member_desktop
@@ -79,6 +78,7 @@ Ho Chi Minh, Vietnam
 
 | Project Name         | Framework                                                         | Link                      |
 |:---------------------|:------------------------------------------------------------------|:--------------------------|
+| live-karate           | <img src="/assets/images/karate.png" width="37" height="37">      | [<> Code][karate_code_2]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
 | parabank-playwright  | <img src="/assets/images/playwright.png" width="37" height="30">          | [<> Code][playwright_code]{: .btn .btn-outline } [View post][playwright_post]{: .btn .btn-outline }|
 | k6                   | <img src="/assets/images/k6.png" width="35" height="35">          | [<> Code][k6_code]{: .btn .btn-outline } [View post][k6_post]{: .btn .btn-outline }|
 | swaglabs-webdriverio | <img src="/assets/images/webdriverio.png" width="35" height="40"> | [<> Code][webdriverio_code]{: .btn .btn-outline } [View post][webdriverio_post]{: .btn .btn-outline }|
@@ -86,7 +86,7 @@ Ho Chi Minh, Vietnam
 | swaglabs-nightwatch  | <img src="/assets/images/nightwatch.png" width="35" height="40">  | [<> Code][nightwatch_web_code]{: .btn .btn-outline } [View post][nightwatch_web_post]{: .btn .btn-outline }|
 | swaglabs-robot       | <img src="/assets/images/robot.png" width="35" height="40">       | [<> Code][robot_code]{: .btn .btn-outline } [View post][robot_post]{: .btn .btn-outline }|
 | vela-testcafe        | <img src="/assets/images/testcafe.png" width="42" height="30">    | [<> Code][testcafe_code]{: .btn .btn-outline } [View post][testcafe_post]{: .btn .btn-outline }|
-| ama-karate           | <img src="/assets/images/karate.png" width="37" height="37">      | [<> Code][karate_code]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
+| ama-karate           | <img src="/assets/images/karate.png" width="37" height="37">      | [<> Code][karate_code_1]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
 
 ## Certifications
 
@@ -94,3 +94,4 @@ Ho Chi Minh, Vietnam
 ![](/assets/images/google-project-management-certificate.png)
 
 <img src="/assets/images/lambda-test-certificate.png" width="390" height="300">
+<img src="/assets/images/growth-mindset-certificate.png" width="390" height="300">
