@@ -3,7 +3,7 @@ layout: default
 title: Advanced
 parent: Karate
 grand_parent: Frameworks
-nav_order: 6
+nav_order: 7
 ---
 
 {: .no_toc }
@@ -19,7 +19,7 @@ nav_order: 6
 
 ## Data Driven
 
-![](/assets/images/data-driven.png)
+![](/assets/images/karate/data-driven.png)
 
 Key takeaways:
 

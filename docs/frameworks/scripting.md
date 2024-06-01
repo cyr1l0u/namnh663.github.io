@@ -19,7 +19,7 @@ nav_order: 4
 
 ## GET Request - URL and Path
 
-![](/assets/images/url-path.png)
+![](/assets/images/karate/url-path.png)
 
 ## Simple Assertions
 
@@ -42,11 +42,11 @@ nav_order: 4
 }
 ```
 
-![](/assets/images/assertions.png)
+![](/assets/images/karate/assertions.png)
 
 ## POST Request
 
-![](/assets/images/post-request.png)
+![](/assets/images/karate/post-request.png)
 
 1. **Login and Get Token:**
     - A username and password are needed to log in.
@@ -70,4 +70,4 @@ nav_order: 4
 
 ## DELETE Request
 
-![](/assets/images/delete-request.png)
+![](/assets/images/karate/delete-request.png)
