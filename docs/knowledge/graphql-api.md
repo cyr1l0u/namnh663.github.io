@@ -3,7 +3,7 @@ layout: default
 title: GraphQL APIs
 parent: API Testing
 grand_parent: Knowledge
-nav_order: 6
+nav_order: 7
 ---
 
 # GraphQL APIs
