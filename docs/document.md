@@ -56,3 +56,5 @@ nav_order: 2
 [Mac Keyboard Shortcuts](https://support.apple.com/en-vn/HT201236)
 
 [Epoch & Unix Timestamp Conversion Tools](https://unixtime.org/)
+
+[SQL validator](https://softwium.com/sql-validator/)
